@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/170631__singintime__smash-close.wav-7447e8021a530b180221fd5a84dd3d91.sample"
+
+[deps]
+
+source_file="res://Assets/tennis-ball-hits_sounds/170631__singintime__smash-close.wav"
+dest_files=[ "res://.import/170631__singintime__smash-close.wav-7447e8021a530b180221fd5a84dd3d91.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

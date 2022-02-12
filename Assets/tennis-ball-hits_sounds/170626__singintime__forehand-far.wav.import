@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/170626__singintime__forehand-far.wav-93a17b1c0f81655d8a42af340b396d51.sample"
+
+[deps]
+
+source_file="res://Assets/tennis-ball-hits_sounds/170626__singintime__forehand-far.wav"
+dest_files=[ "res://.import/170626__singintime__forehand-far.wav-93a17b1c0f81655d8a42af340b396d51.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

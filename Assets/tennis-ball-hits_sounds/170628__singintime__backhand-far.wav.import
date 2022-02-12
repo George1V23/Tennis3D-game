@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/170628__singintime__backhand-far.wav-efa8409c5e0fa5dad91a8a8266f2f40d.sample"
+
+[deps]
+
+source_file="res://Assets/tennis-ball-hits_sounds/170628__singintime__backhand-far.wav"
+dest_files=[ "res://.import/170628__singintime__backhand-far.wav-efa8409c5e0fa5dad91a8a8266f2f40d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

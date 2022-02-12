@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/StrokePaint.png" type="Texture" id=1]
+
+[node name="UrmaMinge" type="Sprite3D" groups=[
+"urme",
+]]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.001, 0 )
+cast_shadow = 0
+modulate = Color( 0, 0, 0, 1 )
+pixel_size = 0.005
+axis = 1
+double_sided = false
+alpha_cut = 2
+texture = ExtResource( 1 )
