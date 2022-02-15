@@ -16,10 +16,6 @@ Creation of 3D graphics is composed of 3 basic steps:
 - Setting up the scene
 - Rendering
 
-</br>
-</br>
-</br>
-
 ![Blender tennis court scene objects](/images/blender_tennis_court.png)
   #### &emsp;&emsp; Tennis court 
 1. Creating tennis court in Blender
@@ -65,8 +61,6 @@ GDScript is a dynamic programming language with a syntax similar to Python and i
 ![Playground nodes](/images/playground_hierarchy.png)
 
 In Godot each scene is a collection of nodes with a tree-shaped structure, with a base node (root) and the other nodes or sub-scenes to which it is subordinated.
-
-
 
 #### &emsp;&emsp; [Game executable](/Scripts/Game.gd)
 ![Game hierarchy](/images/game_hierarchy.png)
